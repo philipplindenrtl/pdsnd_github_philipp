@@ -188,7 +188,6 @@ def display_raw_data(df, start_row):
     print(df.iloc[start_row:start_row + 5])
     print('-' * 40)
 
-# ... (previous code) ...
 
 def main():
     """
